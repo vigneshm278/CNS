@@ -29,7 +29,7 @@ becomes C. To change a message back, each letter is replaced by the one three be
 ### STEP-5: Display the cipher text obtained above.
 
 
-PROGRAM :-
+## PROGRAM :-
 ~~~
 def caesar_cipher(text, shift, encrypt=True):
     def shift_char(char, shift):
@@ -57,5 +57,5 @@ print(f"Decrypted: {decrypted}")
 
 
 
-OUTPUT :-
+## OUTPUT :-
 ![image](https://github.com/user-attachments/assets/c6ffad41-729f-42bf-a09c-00608a4cd30c)
